@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PORTIFOLIO2</title>
+    
+    <link rel="stylesheet" href="tools/fontawesome/css/all.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -12,7 +14,7 @@
 
     <header class="cabecalho">
 
-      <div class="container-header">
+        
 
         <nav class="menu">
 
@@ -35,18 +37,18 @@
 
          <div class="container-titles">
 
-              <h1 class="titulo">Entregando serviços de qualidade</h1>
+              <h1 class="titulo">Entregando Serviços de Qualidade</h1>
               <h1 class="subtitulo">Soluções em TI</h1>
 
-              <p class="paragrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quibusdam ab in! A, nam voluptas!</p>
+              <p class="paragrafo">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis tenetur fuga hic architecto unde nisi.</p>
 
              </div>
 
            <div class="socialIcons">
-            <a href="#">Twitter</a>
-            <a href="#">Facebook</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Instagram</a>
+            <a href="#" title="Visite Nosso Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="#" title="Visite Nosso Facebook"><i class="fab fa-facebook"></i></a>
+            <a href="#" title="Visite Nosso Linkedin"><i class="fab fa-linkedin"></i></a>
+            <a href="#" title="Visite Nosso Instagram"><i class="fab fa-instagram"></i></a>
            
          </div>
 
