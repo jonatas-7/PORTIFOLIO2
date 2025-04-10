@@ -201,7 +201,7 @@
 
        <img src="imagens/logo.png" alt="Logo" />
 
-       <p class="txt-sobre">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci reiciendis itaque nihil magni excepturi, assumenda in dolore iure necessitatibus deserunt.</p>
+       <p class="txt-sobre">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia doloribus natus reprehenderit illum commodi veritatis quam nulla laborum architecto! Natus.</p>
 
        <h4 class="title-sobre">Siga-nos</h4>
 
